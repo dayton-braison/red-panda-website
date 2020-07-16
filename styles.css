@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+}
+
+header {
+    background: #db8758;
+    color: #340701;
+    font-size: 20px;
+    text-align: center;
+    padding: 25px 0 ;
+    margin-bottom: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+img {
+    width: 600px;
+    height: 300px;
+}
+
+#cartoon-panda {
+    width: 75px;
+    height: 75px;
+    position: relative;
+    top: 10px;
+}
+
+main {
+    background:	#340701;
+    color: 	#fce7d2;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 1.8;
+    width: 600px;
+    padding: 25px;
+    border: 10px solid #db8758;
+    text-align: center;
+    margin: 0 auto;
+}
+
+footer {
+    background: #db8758;
+    color: #340701;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    text-align: center;
+    padding: 25px 0;
+    margin-top: 25px;
+}
